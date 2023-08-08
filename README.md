@@ -18,7 +18,7 @@ Aplicação desenvolvida no Stage 03 do programa Explorer da Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Formulário de eventos" src="" width="100%">
+  <img alt="Formulário de eventos" src="./image/Capa.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
